@@ -1,3 +1,4 @@
+export const dynamic = 'force-dynamic';
 import { NextResponse } from "next/server";
 import YahooFinance from "yahoo-finance2";
 import { POPULAR_STOCKS } from "@/lib/stocks-list";
